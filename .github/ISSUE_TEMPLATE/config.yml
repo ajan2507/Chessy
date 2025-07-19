@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+blank_issues_enabled: true
+contact_links:
+  - name: 📄 Docs
+    url: https://docs.ultralytics.com/
+    about: Full Ultralytics YOLOv8 Documentation
+  - name: 💬 Forum
+    url: https://community.ultralytics.com/
+    about: Ask on Ultralytics Community Forum
+  - name: 🎧 Discord
+    url: https://ultralytics.com/discord
+    about: Ask on Ultralytics Discord
+=======
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+blank_issues_enabled: true
+contact_links:
+  - name: 📄 Docs
+    url: https://docs.ultralytics.com/
+    about: Full Ultralytics YOLO Documentation
+  - name: 💬 Forum
+    url: https://community.ultralytics.com/
+    about: Ask on Ultralytics Community Forum
+  - name: 🎧 Discord
+    url: https://ultralytics.com/discord
+    about: Ask on Ultralytics Discord
+  - name: ⌨️ Reddit
+    url: https://reddit.com/r/ultralytics
+    about: Ask on Ultralytics Subreddit
+>>>>>>> 0e451281e978a7c5f581cc5d9bb3d0f62e0bc632
